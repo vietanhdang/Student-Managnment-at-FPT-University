@@ -1,0 +1,5 @@
+|NO||ID      ||Student Name              ||Date      ||Sex   ||Address                                                   ||Phone     |
+
+|1 ||HE151359||Dang Viet Anh             ||04/07/2001||Male  ||Hung Yen                                                  ||0368639828|
+|2 ||HE150397||Han Binh Duong            ||19/11/2001||Male  ||An Thinh, Luong Tai, Bac Ninh                             ||0986840000|
+|3 ||HE153654||Tran Xuan Quang           ||26/11/2001||Male  ||Phu Tho                                                   ||0974427944|

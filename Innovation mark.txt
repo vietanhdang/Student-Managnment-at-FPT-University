@@ -1,0 +1,4 @@
+|NO||ID      ||Student Name              ||CSI  ||CEA  ||PRF  ||MAE  ||Total Average  ||Status    |
+
+|1 ||HE151359||Dang Viet Anh             ||8.00 ||9.00 ||10.00||9.00 ||9.00           ||PASSED    |
+|2 ||HE153654||Tran Xuan Quang           ||5.00 ||5.00 ||6.00 ||7.00 ||5.75           ||PASSED    |

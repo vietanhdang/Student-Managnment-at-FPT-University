@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1617251400 source:c:\users\vietd\documents\quan ly hoc sinh\main.c
+	<stdio.h>
+	"structAClass.h"
+	<windows.h>
+
+1617203167 c:\users\vietd\documents\quan ly hoc sinh\structaclass.h
+
+1616759190 source:c:\users\vietd\documents\quanlyhososinhvien\template.c
+	<stdio.h>
+
+1616884449 source:c:\users\vietd\documents\quanlyhososinhvien\inputmoduel.c
+
+1616721166 source:c:\users\vietd\documents\quanlyhososinhvien\checkvalid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"define.h"
+
+1616721264 c:\users\vietd\documents\quanlyhososinhvien\define.h
+
+1616757611 source:c:\users\vietd\documents\quanlyhososinhvien\processing.c
+
+1616734067 source:c:\users\vietd\documents\quanlyhososinhvien\exportmodule.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616756386 source:c:\users\vietd\documents\quanlyhososinhvien\descryption.c
+
+1617251354 source:c:\users\vietd\documents\quan ly hoc sinh\template.c
+	<stdio.h>
+	"structAClass.h"
+
+1617252752 source:c:\users\vietd\documents\quan ly hoc sinh\checkvalid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1617204307 source:c:\users\vietd\documents\quan ly hoc sinh\process.c
+	"structAClass.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1617199635 source:c:\users\vietd\documents\quan ly hoc sinh\inputmodule.c
+	"structAClass.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1616898773 source:c:\users\vietd\documents\quan ly hoc sinh\descrytion.c
+
+1616898698 source:c:\users\vietd\documents\quan ly hoc sinh\exportdata.c
+
+1616900786 source:c:\users\vietd\documents\quan ly hoc sinh\encryption.c
+	"structAClass.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
