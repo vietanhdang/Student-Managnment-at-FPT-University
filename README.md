@@ -1,4 +1,4 @@
-# C CODE
+# C CODE. USING CODEBLOCK TO RUN THIS PROJECT
 
 # Nhóm: Innovation Geeks
 # Lớp: SE1607
