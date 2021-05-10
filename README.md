@@ -35,4 +35,4 @@ CSI, CEA, PRF, MAE.
 9. Xuất ra file .txt điểm giảm dần của sinh viên lớp để đọc.
 10. Lưu lại file sau mỗi lần chỉnh sửa.
 
-# If u have any questions about this project...contact me via fb: https://www.facebook.com/sa0faikh0k001/
+
